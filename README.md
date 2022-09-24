@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/n829_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/n829_n" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/xea32/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/xea32/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@niyatn9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@niyatn9" height="30" width="40" /></a>
+
 </p>
 
 
